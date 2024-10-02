@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
+        <td colspan="2">Information</td>
+    </tr>
+    <tr>
         <td>Home:</td>
         <td>Västerbotten, Sweden</td>
     </tr>
