@@ -21,10 +21,30 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>Home:</td>
-        <td>Västerbotten, Sweden</td>
+        <td>Västerbotten, Sweden.</td>
+    </tr>
+    <tr>
+        <td>Status:</td>
+        <td>Student at Mid Sweden University.</td>
     </tr>
     <tr>
         <td>Interests:</td>
         <td>Databases, Astronomy, Japanese Popculture...</td>
+    </tr>
+    <tr>
+        <td>Project(s):</td>
+        <td>Discord Bots for course schedule and levling system.</td>
+    </tr>
+    <tr>
+        <td>Discord:</td>
+        <td>@caandyflames</td>
+    </tr>
+    <tr>
+        <td>Pronouns:</td>
+        <td>Attack Helicopter!</td>
+    </tr>
+    <tr>
+        <td>Fun Fact:</td>
+        <td>I don't respond to strangers.</td>
     </tr>
 </table>
