@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
-        <td>Test<t/d>
+        <th>Home:</th>
+        <td>Sweden</td>
     </tr>
 </table>
